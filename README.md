@@ -1,2 +1,2 @@
-# Sample-Portfolio
-Sample repo for testing push and pull cmds
+# Portfolio.github.io
+Personal Portfolio
